@@ -6,4 +6,6 @@ package com.etoak.pojo;
 public class User {
 
     private String name;
+    private String password;
+    private Integer age;
 }
